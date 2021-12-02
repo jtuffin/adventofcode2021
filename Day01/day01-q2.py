@@ -1,6 +1,6 @@
 import requests
 
-# https://adventofcode.com/2021/day/2
+# https://adventofcode.com/2021/day/1
 # Consider sums of a three-measurement sliding window. 
 # How many sums are larger than the previous sum?
 
